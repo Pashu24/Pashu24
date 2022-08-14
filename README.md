@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Pashu24" target="_blank">Pavel Kriuchkov</a> 👋
-<h3 align="center">Data science student🇺</h3>
+<h3 align="center">Data science student</h3>
 
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Python
